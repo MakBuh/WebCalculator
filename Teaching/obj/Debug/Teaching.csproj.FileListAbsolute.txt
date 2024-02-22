@@ -1,0 +1,7 @@
+C:\Users\89275\source\repos\Teaching\Teaching\obj\Debug\Teaching.csproj.AssemblyReference.cache
+C:\Users\89275\source\repos\Teaching\Teaching\obj\Debug\Teaching.csproj.CoreCompileInputs.cache
+C:\Users\89275\source\repos\Teaching\Teaching\bin\Debug\Teaching.exe.config
+C:\Users\89275\source\repos\Teaching\Teaching\bin\Debug\Teaching.exe
+C:\Users\89275\source\repos\Teaching\Teaching\bin\Debug\Teaching.pdb
+C:\Users\89275\source\repos\Teaching\Teaching\obj\Debug\Teaching.exe
+C:\Users\89275\source\repos\Teaching\Teaching\obj\Debug\Teaching.pdb
